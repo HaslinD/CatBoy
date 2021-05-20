@@ -1,2 +1,2 @@
-# CatBoy
-Proyecto interactivo 1
+# Cat_Boy
+Proyecto Interactivo 1
