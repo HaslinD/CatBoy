@@ -9,7 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3925334923576052719}
-  - component: {fileID: 5348915290345937088}
   m_Layer: 0
   m_Name: plataforma2
   m_TagString: Untagged
@@ -32,19 +31,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
---- !u!65 &5348915290345937088
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4409666134058455381}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 0.20615995, z: 1.2165009}
-  m_Center: {x: 5.929234e-21, y: 0.39692003, z: 0.0000013709068}
 --- !u!1 &4665601790924597644
 GameObject:
   m_ObjectHideFlags: 0
