@@ -6,12 +6,9 @@ TagManager:
   tags:
   - Spike
   - Enemy
-  - Key1
-  - Key2
   - Platform
   - Projectile
   - Key
-  - Key3
   - MovPlat
   layers:
   - Default
