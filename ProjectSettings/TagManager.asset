@@ -10,6 +10,10 @@ TagManager:
   - Projectile
   - Key
   - MovPlat
+  - Piece1
+  - Piece2
+  - Piece3
+  - Powers
   layers:
   - Default
   - TransparentFX
