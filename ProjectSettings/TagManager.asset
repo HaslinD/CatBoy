@@ -14,6 +14,8 @@ TagManager:
   - Piece2
   - Piece3
   - Powers
+  - SpawnPoint
+  - CanonBall
   layers:
   - Default
   - TransparentFX
