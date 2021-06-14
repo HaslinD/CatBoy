@@ -15,8 +15,8 @@ GameObject:
   - component: {fileID: 1874761713391700557}
   - component: {fileID: 1874761713391700554}
   - component: {fileID: 1874761713391700555}
-  - component: {fileID: 1874761713391700552}
   - component: {fileID: 1874761713391700553}
+  - component: {fileID: 8244851875764256716}
   m_Layer: 0
   m_Name: Player-CatBoy
   m_TagString: Player
@@ -188,22 +188,6 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: a8516eb8d2223ef428a03e9553aa6288, type: 2}
---- !u!114 &1874761713391700552
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1874761713391700563}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: 29e56651e22de71489f477f19d239f03, type: 2}
 --- !u!114 &1874761713391700553
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -220,6 +204,22 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: a32ec95281636a54495a66815124042e, type: 2}
+--- !u!114 &8244851875764256716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1874761713391700563}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efe58df89b5b74a97a123b5ed2b70422, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: ed769b4467b3cff4cb610fea8a751f95, type: 2}
 --- !u!1001 &85793932556835224
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -241,11 +241,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1960386321292512405, guid: b90ef8b4a26025e44add429e54133678, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.28
+      value: 0.301
       objectReference: {fileID: 0}
     - target: {fileID: 1960386321292512405, guid: b90ef8b4a26025e44add429e54133678, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.387
+      value: -0.373
       objectReference: {fileID: 0}
     - target: {fileID: 1960386321292512405, guid: b90ef8b4a26025e44add429e54133678, type: 3}
       propertyPath: m_LocalPosition.z
