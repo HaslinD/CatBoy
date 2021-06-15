@@ -16,9 +16,8 @@ TagManager:
   - Powers
   - SpawnPoint
   - CanonBall
-  - Key3
-  - Key2
-  - Key1
+  - Bullet
+  - Shooter
   layers:
   - Default
   - TransparentFX
