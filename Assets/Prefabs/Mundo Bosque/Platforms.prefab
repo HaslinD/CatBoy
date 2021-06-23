@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2923206704338421853}
   m_Layer: 9
-  m_Name: w2 (7)
+  m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -112,7 +112,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6608760301323498066}
   m_Layer: 9
-  m_Name: w1 (7)
+  m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
